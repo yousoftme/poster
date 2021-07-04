@@ -5,3 +5,6 @@
 - npm install
 - npm run dev
 - php artisan migrate
+
+- npm install --save vue
+- npm install --save @fortawesome/fontawesome-free
